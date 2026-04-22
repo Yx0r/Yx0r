@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:7c3aed&height=200&section=header&text=Yash%20Gaikwad&fontSize=55&fontColor=a78bfa&fontAlignY=38&desc=SOC%20Analyst%20%E2%80%A2%20SIEM%20Engineer%20%E2%80%A2%20Threat%20Hunter&descAlignY=58&descColor=c4b5fd&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:7c3aed&height=200&section=header&text=Yash%20Gaikwad&fontSize=55&fontColor=a78bfa&fontAlignY=38&desc=Cybersecurity%20Analyst%20%E2%80%A2%20Web%20VAPT%20%E2%80%A2%20Bug%20Hunter&descAlignY=58&descColor=c4b5fd&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Top+2%25+Globally+on+TryHackMe+%F0%9F%8F%86;SIEM+Builder+%7C+Alert+Triage+%7C+Threat+Simulation;CTF+Player+%7C+SOC+Analyst+in+Progress+%F0%9F%9B%A1%EF%B8%8F;Wazuh+%2B+Atomic+Red+Team+Practitioner+%F0%9F%94%8D;From+Student+%E2%86%92+Cybersecurity+Professional+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Top+2%25+Globally+on+TryHackMe+%F0%9F%8F%86;Web+VAPT+%7C+Bug+Hunter+%7C+CTF+Player+%F0%9F%95%B7%EF%B8%8F;OWASP+Top+10+%7C+SQLi+%7C+XSS+%7C+Auth+Bypass;Threat+Simulation+%7C+Incident+Response+%F0%9F%9B%A1%EF%B8%8F;Breaking+Things+to+Make+Them+Safer+%F0%9F%94%90" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,8 +13,8 @@
 <!-- BADGES ROW -->
 <p>
   <img src="https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-7c3aed?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Threat%20Hunt-a78bfa?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20SOC%20Roles-00ff88?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Web%20VAPT%20%7C%20Bug%20Hunting-a78bfa?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&logo=target&logoColor=black" />
 </p>
 
 </div>
@@ -25,18 +25,18 @@
 
 ```bash
 $ whoami
-> Yash Gaikwad — Cybersecurity Analyst | SOC Specialist
+> Yash Gaikwad — Cybersecurity Analyst | Web VAPT | Bug Hunter
 
 $ cat profile.json
 {
-  "role"        : "Cybersecurity Analyst (SOC Focus)",
+  "role"        : "Cybersecurity Analyst | Web Pentester",
   "education"   : "M.Sc. Cybersecurity @ Amity University, Jaipur | CGPA: 9.17",
   "internship"  : "Cyber Police, Amroha, UP — Digital Forensics",
-  "speciality"  : ["SIEM", "Alert Triage", "Threat Simulation", "VAPT"],
-  "tools"       : ["Wazuh", "Atomic Red Team", "Burp Suite", "Metasploit"],
+  "speciality"  : ["Web VAPT", "Bug Hunting", "OWASP Top 10", "Threat Detection"],
+  "tools"       : ["Burp Suite", "Metasploit", "Wazuh", "Nmap", "SQLMap"],
   "achievement" : "Top 2% Globally on TryHackMe 🏆",
   "certs"       : ["Google Cybersecurity", "CompTIA Security+ (In Progress)"],
-  "goal"        : "SOC Analyst | Threat Detection Engineer"
+  "goal"        : "Web Pentester | Bug Bounty Hunter | Security Analyst"
 }
 ```
 
@@ -48,20 +48,20 @@ $ cat profile.json
 <tr>
 <td width="50%">
 
-**🔍 Blue Team**
-- SIEM Deployment & Monitoring (Wazuh)
-- Alert Triage & Log Analysis
-- Incident Response Lifecycle
-- Threat Detection & Event Classification
+**🕷️ Offensive Security**
+- Web App Pentesting (OWASP Top 10)
+- Bug Hunting — SQLi, XSS, IDOR, Auth Bypass
+- Recon & Enumeration (Nmap, Gobuster)
+- Exploit Development & PoC Writing
 
 </td>
 <td width="50%">
 
-**⚔️ Red Team Exposure**
+**🛡️ Defensive Security**
+- Threat Detection & Incident Response
+- Security Log Analysis & Alert Triage
 - Threat Simulation — Atomic Red Team
-- Web App Exploitation (OWASP Top 10)
-- SQLi, XSS, Auth Bypass Testing
-- C2 Communication Behavior Analysis
+- Digital Forensics & Evidence Handling
 
 </td>
 </tr>
@@ -75,11 +75,11 @@ $ cat profile.json
 
 | Category | Tools & Technologies |
 |----------|----------------------|
-| 🖥️ **SIEM & Monitoring** | Wazuh · Splunk (Learning) · ELK Stack |
-| 🔴 **Threat Simulation** | Atomic Red Team · Invoke-Atomic · Metasploit |
-| 🕸️ **Web App Testing** | Burp Suite · OWASP ZAP · SQLMap |
+| 🕸️ **Web App Pentesting** | Burp Suite · OWASP ZAP · SQLMap · ffuf · Gobuster |
+| 🐛 **Bug Hunting** | Recon-ng · Shodan · Subfinder · Nuclei |
+| 🔴 **Exploitation** | Metasploit · Atomic Red Team · Invoke-Atomic |
 | 📡 **Network Analysis** | Wireshark · Nmap · tcpdump |
-| 🔬 **Digital Forensics** | Evidence Handling · Cybercrime Investigation |
+| 🖥️ **Threat Detection** | Wazuh · Log Analysis · Alert Triage |
 | 🐧 **Operating Systems** | Kali Linux · Ubuntu · Arch · Windows (Event Viewer) |
 | 🐍 **Scripting** | Python (Automation) · Bash (CLI Scripting) |
 
@@ -91,12 +91,12 @@ $ cat profile.json
 
 <div align="center">
 
-### Security & Monitoring
-![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+### Web Pentesting & Bug Hunting
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Testing-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Recon-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-Threat%20Detection-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -119,39 +119,40 @@ $ cat profile.json
 
 <td width="50%" valign="top">
 
-### 🖥️ SIEM Copilot — Alert Monitoring & Triage
-> **Feb 2026 – Present** | SOC Operations | Blue Team
+### 🕸️ Web Vulnerability Scanner
+> **Feb 2025 – May 2025** | Web VAPT | Bug Hunting
 
-Built a production-grade Wazuh SIEM lab to simulate enterprise-level security monitoring with AI-assisted triage.
+Automated vulnerability scanner targeting OWASP Top 10 weaknesses — designed to mimic real-world bug bounty recon workflows.
 
 **Highlights:**
-- Deployed Wazuh for centralized log ingestion & alerting
-- Integrated **Atomic Red Team** for controlled attack simulation
-- SOC-style alert triage pipeline for event classification
-- AI-assisted alert prioritization to reduce noise by automating false-positive filtering
+- Detection logic for **SQL Injection**, **XSS** & authentication flaws
+- Automated recon + scan pipeline in Python
+- Structured vulnerability reports with severity ratings
+- Tested against intentionally vulnerable web apps (DVWA, BWAPP)
 
-![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat-square)
-![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-red?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-purple?style=flat-square)
-![AI](https://img.shields.io/badge/AI--Assisted-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-orange?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/Bug%20Hunting-red?style=flat-square)
+![Scanner](https://img.shields.io/badge/Auto%20Scanner-purple?style=flat-square)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🕸️ Web Vulnerability Scanner
-> **Feb 2025 – May 2025** | VAPT | Offensive Security
+### 🖥️ Threat Detection Lab — Wazuh + Atomic Red Team
+> **Feb 2026 – Present** | Blue Team | Threat Simulation
 
-Automated vulnerability scanner targeting OWASP Top 10 weaknesses across web applications.
+Home lab built to simulate real attack scenarios and validate detection rules — bridging offensive knowledge with defensive insight.
 
 **Highlights:**
-- Detection logic for **SQL Injection** & **XSS** vulnerabilities
-- Structured report & log generation for audit trails
-- Modular Python-based scanning engine
+- Deployed Wazuh for centralized log ingestion & alerting
+- Integrated **Atomic Red Team** for controlled attack simulation
+- Alert triage pipeline for event classification
+- AI-assisted alert prioritization to cut noise
 
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-orange?style=flat-square)
-![Scanner](https://img.shields.io/badge/Auto%20Scanner-red?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat-square)
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-red?style=flat-square)
+![Home Lab](https://img.shields.io/badge/Home%20Lab-green?style=flat-square)
 
 </td>
 
@@ -227,12 +228,12 @@ COMPLETED ───────────────────────�
 IN PROGRESS ─────────────────────────────────────────────────────────────────
   🔄  CompTIA Security+ (SY0-701)                       [In Progress]
   🔄  M.Sc. Cybersecurity                               [Amity University | 2027]
-  🔄  SIEM Copilot Project                              [Ongoing]
+  🔄  Web Vulnerability Scanner Project                 [Ongoing]
 
 PLANNED ─────────────────────────────────────────────────────────────────────
-  📌  Certified SOC Analyst (CSA)                       [EC-Council]
   📌  Certified Ethical Hacker (CEH)                    [EC-Council]
-  📌  AWS Certified Security – Specialty                [Amazon]
+  📌  eLearnSecurity Web App Penetration Tester (eWPT)  [INE]
+  📌  Offensive Security Web Expert (OSWE)              [OffSec]
 ```
 
 ---
@@ -294,6 +295,6 @@ Previous:
 <!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a0533,100:0d1117&height=120&section=footer&text=%F0%9F%9B%A1%EF%B8%8F%20Detect.%20Investigate.%20Respond.&fontSize=20&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a0533,100:0d1117&height=120&section=footer&text=%F0%9F%94%90%20Find%20the%20Bug.%20Report%20it.%20Make%20it%20Safer.&fontSize=20&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" />
 
 </div>
