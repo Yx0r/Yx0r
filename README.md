@@ -30,8 +30,6 @@ $ whoami
 $ cat profile.json
 {
   "role"        : "Cybersecurity Analyst | Web Pentester",
-  "education"   : "M.Sc. Cybersecurity @ Amity University, Jaipur | CGPA: 9.17",
-  "internship"  : "Cyber Police, Amroha, UP — Digital Forensics",
   "speciality"  : ["Web VAPT", "Bug Hunting", "OWASP Top 10", "Threat Detection"],
   "tools"       : ["Burp Suite", "Metasploit", "Wazuh", "Nmap", "SQLMap"],
   "achievement" : "Top 2% Globally on TryHackMe 🏆",
@@ -107,97 +105,6 @@ $ cat profile.json
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🕸️ Web Vulnerability Scanner
-> **Feb 2025 – May 2025** | Web VAPT | Bug Hunting
-
-Automated vulnerability scanner targeting OWASP Top 10 weaknesses — designed to mimic real-world bug bounty recon workflows.
-
-**Highlights:**
-- Detection logic for **SQL Injection**, **XSS** & authentication flaws
-- Automated recon + scan pipeline in Python
-- Structured vulnerability reports with severity ratings
-- Tested against intentionally vulnerable web apps (DVWA, BWAPP)
-
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-orange?style=flat-square)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Hunting-red?style=flat-square)
-![Scanner](https://img.shields.io/badge/Auto%20Scanner-purple?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🖥️ Threat Detection Lab — Wazuh + Atomic Red Team
-> **Feb 2026 – Present** | Blue Team | Threat Simulation
-
-Home lab built to simulate real attack scenarios and validate detection rules — bridging offensive knowledge with defensive insight.
-
-**Highlights:**
-- Deployed Wazuh for centralized log ingestion & alerting
-- Integrated **Atomic Red Team** for controlled attack simulation
-- Alert triage pipeline for event classification
-- AI-assisted alert prioritization to cut noise
-
-![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat-square)
-![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-red?style=flat-square)
-![Home Lab](https://img.shields.io/badge/Home%20Lab-green?style=flat-square)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🦠 Signature-Based Malware Detector
-> **Nov 2024 – Jan 2025** | Malware Analysis | Detection Engineering
-
-Built a malware detection engine using known signature patterns and evaluated its real-world accuracy.
-
-**Highlights:**
-- Pattern-matching engine against known malware hashes
-- Accuracy benchmarking across sample malware datasets
-- Analysis of signature-based detection blind spots (evasion scenarios)
-
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
-![Malware](https://img.shields.io/badge/Malware%20Detection-critical?style=flat-square)
-![Signatures](https://img.shields.io/badge/Signature--Based-blue?style=flat-square)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔬 Digital Forensics — Cyber Police Internship
-> **Jun 2025 – Jul 2025** | Forensics | Law Enforcement
-
-Real-world forensics exposure at **Cyber Police, Amroha, Uttar Pradesh**.
-
-**Highlights:**
-- Assisted in cybercrime investigation workflows
-- Observed chain-of-custody and digital evidence handling
-- Reviewed cybercrime-related data for preliminary triage
-
-![Forensics](https://img.shields.io/badge/Digital%20Forensics-teal?style=flat-square)
-![Law](https://img.shields.io/badge/Cyber%20Law-navy?style=flat-square)
-![Investigation](https://img.shields.io/badge/Investigation-orange?style=flat-square)
-
-</td>
-
-</tr>
-</table>
-</div>
 
 ---
 
@@ -211,7 +118,6 @@ Real-world forensics exposure at **Cyber Police, Amroha, Uttar Pradesh**.
 | 🌍 | **Top 2% Globally — TryHackMe** | Consistent hands-on lab ranking |
 | 🔟 | **Top 10 — Code Intrusion CTF** | IIT Bhagalpur |
 | 🏛️ | **CTF Competitor** | Web exploitation & system security focus |
-| 🎤 | **Conference Participant** | BSides · Identity Shield · Seasides |
 
 </div>
 
@@ -228,7 +134,7 @@ COMPLETED ───────────────────────�
 IN PROGRESS ─────────────────────────────────────────────────────────────────
   🔄  CompTIA Security+ (SY0-701)                       [In Progress]
   🔄  M.Sc. Cybersecurity                               [Amity University | 2027]
-  🔄  Web Vulnerability Scanner Project                 [Ongoing]
+  🔄  Adaptive Entropy Analysis                         [Ongoing]
 
 PLANNED ─────────────────────────────────────────────────────────────────────
   📌  Certified Ethical Hacker (CEH)                    [EC-Council]
@@ -281,8 +187,7 @@ Previous:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yx0r)
 [![Gmail](https://img.shields.io/badge/Gmail-gaikwadyash554%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwadyash554@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![Phone](https://img.shields.io/badge/Call-+91%209096658540-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919096658540)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Yx0r)
 
 <br/>
 
