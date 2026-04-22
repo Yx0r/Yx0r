@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d62,100:00d4ff&height=200&section=header&text=Tanay%20Jorihar&fontSize=55&fontColor=00d4ff&fontAlignY=38&desc=SOC%20Analyst%20%E2%80%A2%20VAPT%20Engineer%20%E2%80%A2%20Secure%20Developer&descAlignY=58&descColor=7fdbff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:7c3aed&height=200&section=header&text=Yash%20Gaikwad&fontSize=55&fontColor=a78bfa&fontAlignY=38&desc=SOC%20Analyst%20%E2%80%A2%20SIEM%20Engineer%20%E2%80%A2%20Threat%20Hunter&descAlignY=58&descColor=c4b5fd&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Think+like+an+Attacker+%F0%9F%94%91;Build+like+a+Defender+%F0%9F%9B%A1%EF%B8%8F;SOC+%7C+VAPT+%7C+Cloud+Security+%E2%98%81%EF%B8%8F;From+Developer+%E2%86%92+Security+Specialist+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Top+2%25+Globally+on+TryHackMe+%F0%9F%8F%86;SIEM+Builder+%7C+Alert+Triage+%7C+Threat+Simulation;CTF+Player+%7C+SOC+Analyst+in+Progress+%F0%9F%9B%A1%EF%B8%8F;Wazuh+%2B+Atomic+Red+Team+Practitioner+%F0%9F%94%8D;From+Student+%E2%86%92+Cybersecurity+Professional+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- BADGES ROW -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-SOC%20%26%20VAPT-00d4ff?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00ff88?style=for-the-badge&logo=target&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mindset-Red%20%26%20Blue%20Team-ff4757?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-7c3aed?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20%7C%20SIEM%20%7C%20Threat%20Hunt-a78bfa?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20SOC%20Roles-00ff88?style=for-the-badge&logo=target&logoColor=black" />
 </p>
 
 </div>
@@ -25,41 +25,43 @@
 
 ```bash
 $ whoami
-> Tanay Jorihar — Aspiring Cybersecurity Analyst
+> Yash Gaikwad — Cybersecurity Analyst | SOC Specialist
 
-$ cat profile.txt
-┌─────────────────────────────────────────────────────────────┐
-│  💼  Ex-Software Developer @ Manacle Technologies           │
-│  🔐  Transitioning into: SOC Analysis & VAPT               │
-│  🛡️  Practicing: OWASP Top 10 | Secure SDLC | Threat Hunt  │
-│  ⚙️  Background: PHP, Laravel, Backend Security             │
-│  🎯  Target Role: Cybersecurity Analyst | Cloud Security    │
-│  📍  Location: India                                        │
-└─────────────────────────────────────────────────────────────┘
+$ cat profile.json
+{
+  "role"        : "Cybersecurity Analyst (SOC Focus)",
+  "education"   : "M.Sc. Cybersecurity @ Amity University, Jaipur | CGPA: 9.17",
+  "internship"  : "Cyber Police, Amroha, UP — Digital Forensics",
+  "speciality"  : ["SIEM", "Alert Triage", "Threat Simulation", "VAPT"],
+  "tools"       : ["Wazuh", "Atomic Red Team", "Burp Suite", "Metasploit"],
+  "achievement" : "Top 2% Globally on TryHackMe 🏆",
+  "certs"       : ["Google Cybersecurity", "CompTIA Security+ (In Progress)"],
+  "goal"        : "SOC Analyst | Threat Detection Engineer"
+}
 ```
 
 ---
 
-## 🔭 Current Operations
+## 🚨 Active Operations
 
 <table>
 <tr>
 <td width="50%">
 
-**🔍 Active Recon**
-- Web Application Security Testing
-- Vulnerability Assessment & Pen Testing
-- SOC Operations & Threat Detection
-- AWS Cloud Security Hardening
+**🔍 Blue Team**
+- SIEM Deployment & Monitoring (Wazuh)
+- Alert Triage & Log Analysis
+- Incident Response Lifecycle
+- Threat Detection & Event Classification
 
 </td>
 <td width="50%">
 
-**📡 Intel Gathering**
-- Malware Analysis Fundamentals
-- SIEM & Log Analysis
-- Network Traffic Analysis (Wireshark)
-- Red Team / Blue Team Exercises
+**⚔️ Red Team Exposure**
+- Threat Simulation — Atomic Red Team
+- Web App Exploitation (OWASP Top 10)
+- SQLi, XSS, Auth Bypass Testing
+- C2 Communication Behavior Analysis
 
 </td>
 </tr>
@@ -67,54 +69,49 @@ $ cat profile.txt
 
 ---
 
-## 🛡️ Arsenal — Security Tools
+## 🛡️ Security Arsenal
 
 <div align="center">
 
-| Category | Tools |
-|----------|-------|
-| 🔍 **Recon & Scanning** | Nmap · Nikto · Gobuster · Shodan |
+| Category | Tools & Technologies |
+|----------|----------------------|
+| 🖥️ **SIEM & Monitoring** | Wazuh · Splunk (Learning) · ELK Stack |
+| 🔴 **Threat Simulation** | Atomic Red Team · Invoke-Atomic · Metasploit |
 | 🕸️ **Web App Testing** | Burp Suite · OWASP ZAP · SQLMap |
-| 📡 **Traffic Analysis** | Wireshark · tcpdump |
-| 💻 **Platforms** | Kali Linux · Parrot OS · TryHackMe |
-| ☁️ **Cloud Security** | AWS IAM · CloudTrail · GuardDuty |
-| 🧪 **Scripting** | Bash · Python (Automation & Tooling) |
+| 📡 **Network Analysis** | Wireshark · Nmap · tcpdump |
+| 🔬 **Digital Forensics** | Evidence Handling · Cybercrime Investigation |
+| 🐧 **Operating Systems** | Kali Linux · Ubuntu · Arch · Windows (Event Viewer) |
+| 🐍 **Scripting** | Python (Automation) · Bash (CLI Scripting) |
 
 </div>
 
 ---
 
-## 💻 Tech DNA
+## 💻 Tech Stack
 
 <div align="center">
 
-### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### Security & Monitoring
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Testing-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Recon-4EAA25?style=for-the-badge&logo=linux&logoColor=white)
 
-### Frameworks & Databases
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Platforms & OS
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -122,37 +119,39 @@ $ cat profile.txt
 
 <td width="50%" valign="top">
 
-### 🎣 Phishing Awareness Demo
-> **Category:** Social Engineering | Security Education
+### 🖥️ SIEM Copilot — Alert Monitoring & Triage
+> **Feb 2026 – Present** | SOC Operations | Blue Team
 
-Simulates real-world phishing attacks to train users in identifying threats. Demonstrates multi-vector social engineering techniques and countermeasures.
+Built a production-grade Wazuh SIEM lab to simulate enterprise-level security monitoring with AI-assisted triage.
 
-**Key Features:**
-- Realistic phishing simulation environment
-- User awareness training module
-- Prevention & reporting workflow
+**Highlights:**
+- Deployed Wazuh for centralized log ingestion & alerting
+- Integrated **Atomic Red Team** for controlled attack simulation
+- SOC-style alert triage pipeline for event classification
+- AI-assisted alert prioritization to reduce noise by automating false-positive filtering
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tanayjorihar/phishing-awareness-demo.git)
-![Security](https://img.shields.io/badge/Social%20Engineering-red?style=flat-square)
-![Education](https://img.shields.io/badge/Awareness%20Training-blue?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat-square)
+![Atomic Red Team](https://img.shields.io/badge/Atomic%20Red%20Team-red?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-purple?style=flat-square)
+![AI](https://img.shields.io/badge/AI--Assisted-green?style=flat-square)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔑 Password Strength Analyzer
-> **Category:** Secure Auth | Security Tooling
+### 🕸️ Web Vulnerability Scanner
+> **Feb 2025 – May 2025** | VAPT | Offensive Security
 
-Real-time password validation engine that enforces strong authentication practices across applications.
+Automated vulnerability scanner targeting OWASP Top 10 weaknesses across web applications.
 
-**Key Features:**
-- Entropy-based strength calculation
-- Real-time visual feedback
-- Secure coding pattern demonstration
+**Highlights:**
+- Detection logic for **SQL Injection** & **XSS** vulnerabilities
+- Structured report & log generation for audit trails
+- Modular Python-based scanning engine
 
-[![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/Tanayjorihar/Password_Checker.git)
-![Tool](https://img.shields.io/badge/Auth%20Security-green?style=flat-square)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-orange?style=flat-square)
+![Scanner](https://img.shields.io/badge/Auto%20Scanner-red?style=flat-square)
 
 </td>
 
@@ -161,45 +160,58 @@ Real-time password validation engine that enforces strong authentication practic
 
 <td width="50%" valign="top">
 
-### 🔍 Web App Security Assessment
-> **Category:** VAPT | Offensive Security
+### 🦠 Signature-Based Malware Detector
+> **Nov 2024 – Jan 2025** | Malware Analysis | Detection Engineering
 
-Full vulnerability assessment of a target web application using industry-standard tools and methodologies.
+Built a malware detection engine using known signature patterns and evaluated its real-world accuracy.
 
-**Scope Covered:**
-- Nmap network & port scanning
-- Nikto web server fingerprinting
-- Vulnerability identification & reporting
-- Remediation recommendations
+**Highlights:**
+- Pattern-matching engine against known malware hashes
+- Accuracy benchmarking across sample malware datasets
+- Analysis of signature-based detection blind spots (evasion scenarios)
 
-![VAPT](https://img.shields.io/badge/VAPT-orange?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-informational?style=flat-square)
-![Nikto](https://img.shields.io/badge/Nikto-critical?style=flat-square)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square)
+![Malware](https://img.shields.io/badge/Malware%20Detection-critical?style=flat-square)
+![Signatures](https://img.shields.io/badge/Signature--Based-blue?style=flat-square)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🏢 Enterprise Security Systems
-> **Category:** Secure Development | Professional
+### 🔬 Digital Forensics — Cyber Police Internship
+> **Jun 2025 – Jul 2025** | Forensics | Law Enforcement
 
-Production-grade enterprise platforms built with security-first architecture at Manacle Technologies.
+Real-world forensics exposure at **Cyber Police, Amroha, Uttar Pradesh**.
 
-**Delivered Platforms:**
-- 🏭 Inventory Management System
-- 🏛️ University Portal
-- 🏘️ Society Management System
-- 🔨 Auction Platform
+**Highlights:**
+- Assisted in cybercrime investigation workflows
+- Observed chain-of-custody and digital evidence handling
+- Reviewed cybercrime-related data for preliminary triage
 
-**Security Implemented:**
-- RBAC · Session Security · Auth Hardening
-
-⚠️ *Proprietary — Not Public*
+![Forensics](https://img.shields.io/badge/Digital%20Forensics-teal?style=flat-square)
+![Law](https://img.shields.io/badge/Cyber%20Law-navy?style=flat-square)
+![Investigation](https://img.shields.io/badge/Investigation-orange?style=flat-square)
 
 </td>
 
 </tr>
 </table>
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| Badge | Achievement | Details |
+|:-----:|:------------|:--------|
+| 🥈 | **1st Runner-Up — CTF, E-Summit 2026** | Amity University, Jaipur — Feb 2026 |
+| 🌍 | **Top 2% Globally — TryHackMe** | Consistent hands-on lab ranking |
+| 🔟 | **Top 10 — Code Intrusion CTF** | IIT Bhagalpur |
+| 🏛️ | **CTF Competitor** | Web exploitation & system security focus |
+| 🎤 | **Conference Participant** | BSides · Identity Shield · Seasides |
+
 </div>
 
 ---
@@ -207,32 +219,39 @@ Production-grade enterprise platforms built with security-first architecture at 
 ## 📜 Certifications & Roadmap
 
 ```
-COMPLETED ──────────────────────────────────────────────────────────────
-  ✅  Cloud Computing                              [Coursera]
-  ✅  Secure SDLC & OWASP Practices               [On the Job]
+COMPLETED ──────────────────────────────────────────────────────────────────
+  ✅  Google Cybersecurity Professional Certificate      [Google | 2024]
+  ✅  Cyber Police Internship                            [Amroha, UP | 2025]
+  ✅  TryHackMe — Top 2% Global Ranking                 [Active Practitioner]
 
-IN PROGRESS ─────────────────────────────────────────────────────────────
-  🔄  Cybersecurity Specialist                    [Edureka]
-  🔄  TryHackMe — Jr Penetration Tester Path      [Active]
+IN PROGRESS ─────────────────────────────────────────────────────────────────
+  🔄  CompTIA Security+ (SY0-701)                       [In Progress]
+  🔄  M.Sc. Cybersecurity                               [Amity University | 2027]
+  🔄  SIEM Copilot Project                              [Ongoing]
 
-PLANNED ─────────────────────────────────────────────────────────────────
-  📌  Certified Ethical Hacker (CEH)              [EC-Council]
-  📌  CompTIA Security+                           [CompTIA]
-  📌  AWS Certified Security – Specialty          [Amazon]
+PLANNED ─────────────────────────────────────────────────────────────────────
+  📌  Certified SOC Analyst (CSA)                       [EC-Council]
+  📌  Certified Ethical Hacker (CEH)                    [EC-Council]
+  📌  AWS Certified Security – Specialty                [Amazon]
 ```
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-<div align="center">
+```yaml
+Current:
+  Degree:      M.Sc. Cybersecurity
+  University:  Amity University, Jaipur
+  CGPA:        9.17 / 10
+  Duration:    Aug 2025 – Expected 2027
 
-| 🥈 | **1st Runner-Up — Whack Hackathon 4.0** | Competed against 100+ teams |
-|:--:|:--|:--|
-| 👨‍💻 | **Software Development Head — DU** | Led a team of developers |
-| 🔐 | **Secure Systems Built in Production** | 4+ enterprise platforms shipped |
-
-</div>
+Previous:
+  Degree:      Bachelor of Computer Applications (BCA)
+  University:  Sanjay Ghodawat University
+  CGPA:        8.51 / 10
+  Duration:    Aug 2022 – May 2025
+```
 
 ---
 
@@ -240,42 +259,18 @@ PLANNED ────────────────────────
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanayjorihar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4ff&icon_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanayjorihar&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yx0r&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yx0r&layout=compact&theme=github_dark&hide_border=true&title_color=a78bfa"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Tanayjorihar&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=ff4757&currStreakLabel=00d4ff" />
+<img src="https://streak-stats.demolab.com?user=yx0r&theme=github-dark-blue&hide_border=true&ring=a78bfa&fire=ff4757&currStreakLabel=a78bfa" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanayjorihar&theme=github-compact&hide_border=true&color=00d4ff&line=00d4ff&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yx0r&theme=github-compact&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff" />
 
 </div>
-
----
-
-## 💼 Work Experience
-
-```yaml
-Position:   Junior Software Developer
-Company:    Manacle Technologies Pvt. Ltd.
-Location:   Noida, India
-Duration:   2023 – 2025
-
-Responsibilities:
-  - Built secure, scalable production systems
-  - Implemented authentication & session security layers
-  - Enforced Secure SDLC throughout development lifecycle
-  - Optimized system performance & reliability
-  - Delivered 4+ enterprise-grade platforms
-
-Security Focus:
-  - OWASP Top 10 compliance
-  - Role-Based Access Control (RBAC)
-  - Input validation & output encoding
-  - Secure API design patterns
-```
 
 ---
 
@@ -283,14 +278,14 @@ Security Focus:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanay%20Jorihar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-jorihar-352b00268/)
-[![Gmail](https://img.shields.io/badge/Gmail-developertanay%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developertanay@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Tanayjorihar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tanayjorihar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yx0r)
+[![Gmail](https://img.shields.io/badge/Gmail-gaikwadyash554%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaikwadyash554@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%202%25%20Global-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![Phone](https://img.shields.io/badge/Call-+91%209096658540-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919096658540)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tanayjorihar&label=Profile%20Views&color=00d4ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yx0r&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 
 </div>
 
@@ -299,6 +294,6 @@ Security Focus:
 <!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a3d62,100:0d1117&height=120&section=footer&text=%F0%9F%94%90%20From%20Building%20Systems%20%E2%86%92%20Securing%20Systems&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a0533,100:0d1117&height=120&section=footer&text=%F0%9F%9B%A1%EF%B8%8F%20Detect.%20Investigate.%20Respond.&fontSize=20&fontColor=c4b5fd&fontAlignY=65&animation=fadeIn" />
 
 </div>
