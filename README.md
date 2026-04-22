@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-> Yash Gaikwad — Cybersecurity Analyst | Web VAPT | Bug Hunter
+> Yash Gaikwad — Cybersecurity Analyst | Bug Hunter | Security Researcher 
 
 $ cat profile.json
 {
